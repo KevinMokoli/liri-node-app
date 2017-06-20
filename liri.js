@@ -5,11 +5,11 @@ var spotify = require('spotify');
 var request = require('request');
 
 // My Scripts
-var keys = require('./keys.js');
+//var keys = require('./keys.js');
 
 var app = {
   "my-tweets": function() {
-    var client = new Twitter(keys);
+    var client = new Twitter();
     client.get('statuses/user_timeline', function(error, tweetData, response) {
       if (!error) {
         console.log(' ');
