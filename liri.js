@@ -1,15 +1,14 @@
 // Vendor
 var fs = require('fs');
-var Twitter = require('twitter');
 var spotify = require('spotify');
 var request = require('request');
 
 // My Scripts
-//var keys = require('./keys.js');
+var client = require('./twit.js');
 
 var app = {
   "my-tweets": function() {
-    var client = new Twitter();
+    console.dir(client);
     client.get('statuses/user_timeline', function(error, tweetData, response) {
       if (!error) {
         console.log(' ');

@@ -1,0 +1,2278 @@
+[
+  {
+    "created_at": "Mon Jun 19 06:21:42 +0000 2017",
+    "id": 876686409238818800,
+    "id_str": "876686409238818816",
+    "text": "real love is all I really ask for... well, that and a room full of money lol",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jun 15 22:34:39 +0000 2017",
+    "id": 875481708753109000,
+    "id_str": "875481708753108992",
+    "text": "#entrepreneur #patience #qualityoverquantity #dreamBig https://t.co/F6hESYQleo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "entrepreneur",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "text": "patience",
+          "indices": [
+            14,
+            23
+          ]
+        },
+        {
+          "text": "qualityoverquantity",
+          "indices": [
+            24,
+            44
+          ]
+        },
+        {
+          "text": "dreamBig",
+          "indices": [
+            45,
+            54
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/F6hESYQleo",
+          "expanded_url": "https://www.instagram.com/p/BVYI2a4hu50/",
+          "display_url": "instagram.com/p/BVYI2a4hu50/",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Thu Jun 15 04:48:50 +0000 2017",
+    "id": 875213484895744000,
+    "id_str": "875213484895744000",
+    "text": "Come out this Friday - I'll be headlining Black Card Fridays Featuring Dj Bananaz | No Cover \n- Great Drinks\n-... https://t.co/PTrTMqZk6x",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/PTrTMqZk6x",
+          "expanded_url": "http://fb.me/DDSyvENM",
+          "display_url": "fb.me/DDSyvENM",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 13 21:37:33 +0000 2017",
+    "id": 874742561444900900,
+    "id_str": "874742561444900873",
+    "text": "Tonight is Latin night at indigo Indigo At Midtown https://t.co/gpXz8W5NuP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gpXz8W5NuP",
+          "expanded_url": "http://fb.me/1dYCcfNlF",
+          "display_url": "fb.me/1dYCcfNlF",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu May 25 20:21:30 +0000 2017",
+    "id": 867838053368430600,
+    "id_str": "867838053368430592",
+    "text": "Id like to present to you the turn up for this friday! I will be at Indigo At Midtown for this lituation.  No... https://t.co/UZ822x3f8d",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/UZ822x3f8d",
+          "expanded_url": "http://fb.me/7UyF6a0Q2",
+          "display_url": "fb.me/7UyF6a0Q2",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 24 22:22:36 +0000 2017",
+    "id": 867506141558849500,
+    "id_str": "867506141558849541",
+    "text": "Issa Party this Friday at Indigo, No Cover, reverse happy HH from 9 to 11pm | the new spot in… https://t.co/LmK2n9kED9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LmK2n9kED9",
+          "expanded_url": "https://www.instagram.com/p/BUfd-vNhGtJ/",
+          "display_url": "instagram.com/p/BUfd-vNhGtJ/",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        29.74404,
+        -95.36461
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -95.36461,
+        29.74404
+      ]
+    },
+    "place": {
+      "id": "1c69a67ad480e1b1",
+      "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+      "place_type": "city",
+      "name": "Houston",
+      "full_name": "Houston, TX",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.823268,
+              29.522325
+            ],
+            [
+              -95.069705,
+              29.522325
+            ],
+            [
+              -95.069705,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              30.1546646
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue May 16 22:56:11 +0000 2017",
+    "id": 864615492475957200,
+    "id_str": "864615492475957248",
+    "text": "Going back to the 99 and year 2000 lol... this friday come enjoy me and @djhavoc281 for our… https://t.co/hgtVQSfsjg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "djhavoc281",
+          "name": "DJ Havoc",
+          "id": 68606230,
+          "id_str": "68606230",
+          "indices": [
+            72,
+            83
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hgtVQSfsjg",
+          "expanded_url": "https://www.instagram.com/p/BUK7dmkBKv2/",
+          "display_url": "instagram.com/p/BUK7dmkBKv2/",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        29.74404,
+        -95.36461
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -95.36461,
+        29.74404
+      ]
+    },
+    "place": {
+      "id": "1c69a67ad480e1b1",
+      "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+      "place_type": "city",
+      "name": "Houston",
+      "full_name": "Houston, TX",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.823268,
+              29.522325
+            ],
+            [
+              -95.069705,
+              29.522325
+            ],
+            [
+              -95.069705,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              30.1546646
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri May 12 21:04:39 +0000 2017",
+    "id": 863137871841984500,
+    "id_str": "863137871841984512",
+    "text": "Tonight come through to Indigo for afro caribean night! Easy choice. Doors open at 9pm. No… https://t.co/LA9nzVT7PR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LA9nzVT7PR",
+          "expanded_url": "https://www.instagram.com/p/BUAbhh_hYD5/",
+          "display_url": "instagram.com/p/BUAbhh_hYD5/",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu May 11 00:18:12 +0000 2017",
+    "id": 862461802386534400,
+    "id_str": "862461802386534401",
+    "text": "Great event to catch me at this Friday!! AfroCaribbean Night in Midtown.. you can't get a better event than this.... https://t.co/7mKZESQPXo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7mKZESQPXo",
+          "expanded_url": "http://fb.me/41iXMedtx",
+          "display_url": "fb.me/41iXMedtx",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 10 17:24:54 +0000 2017",
+    "id": 862357792769704000,
+    "id_str": "862357792769703936",
+    "text": "🤔 https://t.co/YFIf9B4f7Y",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/YFIf9B4f7Y",
+          "expanded_url": "https://www.instagram.com/p/BT64yIOB862/",
+          "display_url": "instagram.com/p/BT64yIOB862/",
+          "indices": [
+            2,
+            25
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Wed May 10 17:18:31 +0000 2017",
+    "id": 862356185760100400,
+    "id_str": "862356185760100352",
+    "text": "Just saying... https://t.co/Us6jZKYdQR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Us6jZKYdQR",
+          "expanded_url": "http://fb.me/8Do7llCBj",
+          "display_url": "fb.me/8Do7llCBj",
+          "indices": [
+            15,
+            38
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 10 16:53:52 +0000 2017",
+    "id": 862349982375882800,
+    "id_str": "862349982375882753",
+    "text": "This friday and Every 2nd Friday this summer! AfroCaribbean night... \n#NoCover\n#ReverseHH… https://t.co/745exHKmXX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NoCover",
+          "indices": [
+            70,
+            78
+          ]
+        },
+        {
+          "text": "ReverseHH",
+          "indices": [
+            79,
+            89
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/745exHKmXX",
+          "expanded_url": "https://www.instagram.com/p/BT61OyuhyPd/",
+          "display_url": "instagram.com/p/BT61OyuhyPd/",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat May 06 00:14:17 +0000 2017",
+    "id": 860648878650957800,
+    "id_str": "860648878650957824",
+    "text": "Good Vibes only! #mixedmen #mensfashion #mixedchildren #blackcardFridays #jointheculture #IDj… https://t.co/j6kpgiyhhc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "mixedmen",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "mensfashion",
+          "indices": [
+            27,
+            39
+          ]
+        },
+        {
+          "text": "mixedchildren",
+          "indices": [
+            40,
+            54
+          ]
+        },
+        {
+          "text": "blackcardFridays",
+          "indices": [
+            55,
+            72
+          ]
+        },
+        {
+          "text": "jointheculture",
+          "indices": [
+            73,
+            88
+          ]
+        },
+        {
+          "text": "IDj",
+          "indices": [
+            89,
+            93
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/j6kpgiyhhc",
+          "expanded_url": "https://www.instagram.com/p/BTuvqQsh8O5/",
+          "display_url": "instagram.com/p/BTuvqQsh8O5/",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri May 05 00:38:05 +0000 2017",
+    "id": 860292480868143100,
+    "id_str": "860292480868143104",
+    "text": "My mom is still this protective of me lol #mixbaby #mixedmen #happypeople #mothers #tbt… https://t.co/jDpoPD76vf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "mixbaby",
+          "indices": [
+            42,
+            50
+          ]
+        },
+        {
+          "text": "mixedmen",
+          "indices": [
+            51,
+            60
+          ]
+        },
+        {
+          "text": "happypeople",
+          "indices": [
+            61,
+            73
+          ]
+        },
+        {
+          "text": "mothers",
+          "indices": [
+            74,
+            82
+          ]
+        },
+        {
+          "text": "tbt",
+          "indices": [
+            83,
+            87
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jDpoPD76vf",
+          "expanded_url": "https://www.instagram.com/p/BTsNls7B0Pt/",
+          "display_url": "instagram.com/p/BTsNls7B0Pt/",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu May 04 22:01:34 +0000 2017",
+    "id": 860253093551906800,
+    "id_str": "860253093551906816",
+    "text": "I just like to get the people going on Fridays! come out and play with me Cinco De Freako​ \n- No Cover\n-... https://t.co/R2Bu9mlcN5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/R2Bu9mlcN5",
+          "expanded_url": "http://fb.me/1IqtQ9IHp",
+          "display_url": "fb.me/1IqtQ9IHp",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu May 04 21:59:45 +0000 2017",
+    "id": 860252634556620800,
+    "id_str": "860252634556620800",
+    "text": "I just like to get the people going on Fridays! come out and play with me Cinco De Freako \n- No Cover\n- Free Taco... https://t.co/yttZdMBy4a",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yttZdMBy4a",
+          "expanded_url": "http://fb.me/P0FloJer",
+          "display_url": "fb.me/P0FloJer",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu May 04 19:02:16 +0000 2017",
+    "id": 860207969161560000,
+    "id_str": "860207969161560064",
+    "text": "It was just a cool pic lol https://t.co/PdWNE7D6Nq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/PdWNE7D6Nq",
+          "expanded_url": "https://www.instagram.com/p/BTrnJ_hBokW/",
+          "display_url": "instagram.com/p/BTrnJ_hBokW/",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 03 18:50:03 +0000 2017",
+    "id": 859842508242776000,
+    "id_str": "859842508242776064",
+    "text": "Cool Story... Come out this Friday... I shall turneth it upeth lol at Cinco De Freako! For those who aren't... https://t.co/Fa0lArzsqt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Fa0lArzsqt",
+          "expanded_url": "http://fb.me/8H7cqyDCC",
+          "display_url": "fb.me/8H7cqyDCC",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue May 02 21:31:09 +0000 2017",
+    "id": 859520661005279200,
+    "id_str": "859520661005279232",
+    "text": "Come watch the rockets vs spurs this friday\n- no cover\n- free taco bar\n- $5 margaritas all… https://t.co/0It68i1uer",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/0It68i1uer",
+          "expanded_url": "https://www.instagram.com/p/BTmul0XB3CW/",
+          "display_url": "instagram.com/p/BTmul0XB3CW/",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        29.74404,
+        -95.36461
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -95.36461,
+        29.74404
+      ]
+    },
+    "place": {
+      "id": "1c69a67ad480e1b1",
+      "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+      "place_type": "city",
+      "name": "Houston",
+      "full_name": "Houston, TX",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.823268,
+              29.522325
+            ],
+            [
+              -95.069705,
+              29.522325
+            ],
+            [
+              -95.069705,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              30.1546646
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue May 02 19:00:02 +0000 2017",
+    "id": 859482631725035500,
+    "id_str": "859482631725035521",
+    "text": "I just want to mix hoodrat thinks for my sophisticated friends! lol #BlackCardFridays",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BlackCardFridays",
+          "indices": [
+            68,
+            85
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33707544,
+      "id_str": "33707544",
+      "name": "B∆N∆N∆Z™",
+      "screen_name": "DjBananaz",
+      "location": "Unknown",
+      "description": "GOD is LIFE ... FAMILY IS ALL | ROTTEN IN THE HOOD - EP COMING SOON Been rapping since Aug4,2014 lol",
+      "url": "http://t.co/GcfXMLzuOx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/GcfXMLzuOx",
+              "expanded_url": "http://www.djbananaz.com",
+              "display_url": "djbananaz.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2232,
+      "friends_count": 1134,
+      "listed_count": 57,
+      "created_at": "Mon Apr 20 23:11:19 +0000 2009",
+      "favourites_count": 184,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36899,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120663467/5890a405fe293ec7475da053a91d8d5f.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000171763349/7d599cca2b1a495dcc03f978a77d24ec_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33707544/1379053427",
+      "profile_link_color": "882FED",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]
+====================================================================================
